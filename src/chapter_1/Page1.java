@@ -8,5 +8,9 @@ public class Page1 {
         System.out.println("second print ");
 
         System.out.println("last commit");
+        
+        
+        
+        //we added these lines for practicing fetch
     }
 }
